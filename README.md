@@ -1,4 +1,9 @@
-## Hi there 👋
+**Hi, I'm kinprod**
+
+I'm unity develuger and technical game designer
+
+---
+### Tech stack ⚙
 
 <!--
 **kinprod/kinprod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
