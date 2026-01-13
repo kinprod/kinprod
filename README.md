@@ -1,4 +1,4 @@
-**Hi, I'm kinprod**
+**Hi, I'm [kinprod](https://kinprod.github.io/Portfolio/)**
 
 I'm unity develuger and technical game designer
 
@@ -12,7 +12,14 @@ I'm unity develuger and technical game designer
 ![Static Badge](https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=white&labelColor=black&color=black)
 
 ![Static Badge](https://img.shields.io/badge/Gimp-white?logo=gimp&logoColor=white&labelColor=%238C8073)
+![Static Badge](https://img.shields.io/badge/Figma-white?style=flat&logo=figma&logoColor=white&logoSize=for-the-badge&labelColor=black&color=black)
 
+---
+### 🎮 Projects
+
+- [Soviet vs lizards](https://github.com/kinprod/SovietVsLizards)
+- [2d roduelike](https://github.com/kinprod/2d-roglike-game)
+- [Kerensky game](https://github.com/kinprod/Kirill-Game)
 
 <!--
 **kinprod/kinprod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
