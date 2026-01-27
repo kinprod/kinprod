@@ -1,6 +1,6 @@
 **Hi, I'm [kinprod](https://kinprod.github.io/Portfolio/)**
 
-I'm unity develuger and technical game designer
+I'm unity developer and technical game designer
 
 ---
 ### ⚙ Tech stack 
