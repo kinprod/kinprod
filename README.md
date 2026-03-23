@@ -1,4 +1,4 @@
-**Hi, I'm [kinprod](https://kinprod.github.io/Portfolio/)**
+**Hi, I'm kinprod
 
 I'm unity developer and technical game designer
 
