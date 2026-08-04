@@ -11,7 +11,6 @@ I'm unity developer and technical game designer
 ![Static Badge](https://img.shields.io/badge/GIT-white?style=flat-square&logo=git&logoColor=white&labelColor=red&color=red)
 ![Static Badge](https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=white&labelColor=black&color=black)
 
-![Static Badge](https://img.shields.io/badge/Gimp-white?logo=gimp&logoColor=white&labelColor=%238C8073)
 ![Static Badge](https://img.shields.io/badge/Figma-white?style=flat&logo=figma&logoColor=white&logoSize=for-the-badge&labelColor=black&color=black)
 
 ---
