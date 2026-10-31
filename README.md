@@ -19,6 +19,7 @@ I'm unity developer and technical game designer
 - [Soviet vs lizards](https://github.com/kinprod/SovietVsLizards)
 - [2d roduelike](https://github.com/kinprod/2d-roglike-game)
 - [Kerensky game](https://github.com/kinprod/Kirill-Game)
+- [2d souls-like](https://github.com/kinprod/2d-souls-prototype)
 
 <!--
 **kinprod/kinprod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
