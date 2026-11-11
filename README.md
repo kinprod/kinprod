@@ -16,6 +16,7 @@ I'm unity developer and technical game designer
 ---
 ### 🎮 Projects
 
+- [Moon Escape](https://github.com/kinprod/MoonMission)
 - [Soviet vs lizards](https://github.com/kinprod/SovietVsLizards)
 - [2d roduelike](https://github.com/kinprod/2d-roglike-game)
 - [Kerensky game](https://github.com/kinprod/Kirill-Game)
